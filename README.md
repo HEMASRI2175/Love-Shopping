@@ -1,7 +1,4 @@
-![Shopping Time](https://github.com/catherineisonline/shopping-time/blob/main/src/assets/images/project-preview.png?raw=true)
 
-# [Shopping Time](https://shopping-time.vercel.app/)
-Shopping Time is an e-commerce website that has at least 150 women's clothing products with different sizes and color choices. You can choose various attributes like size and color. There is a cart where you can see added items and edit, add, or remove them. You can also set a currency of your choice.
 
 ## Functionality Overview
 Below is a comprehensive overview of the functionalities that the website offers:
@@ -89,9 +86,3 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 - [React Slider](https://www.npmjs.com/package/react-simple-image-slider)
 - [uuid](https://www.npmjs.com/package/uuid)
 
-## Contribution <a id="contribution"></a>
-
-This project serves as a personal portfolio website to show off my personal skills. I do not accept any contributions like pull requests to this project however if you have any suggestions or ideas feel free to contact me or submit an idea in the [discussions](https://github.com/catherineisonline/shopping-time/discussions). Otherwise, you are free to fork this project and change it for your own purposes. 
-
-## License  <a id="license"></a>
-This project is released under the MIT [LICENSE](https://github.com/catherineisonline/shopping-time/blob/main/LICENSE). You can find the specific terms and conditions outlined in the LICENSE file. This means you're free to utilize, modify, and distribute the project according to the terms of the MIT License.
